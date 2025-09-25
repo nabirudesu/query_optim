@@ -1,0 +1,4 @@
+/mnt/c/Users/kyorakuna/projects/phd/SimplicityDoneRight-master/FocusedSampling/CMakeFiles/rel_lib.dir
+/mnt/c/Users/kyorakuna/projects/phd/SimplicityDoneRight-master/FocusedSampling/CMakeFiles/focusedSampling.dir
+/mnt/c/Users/kyorakuna/projects/phd/SimplicityDoneRight-master/FocusedSampling/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kyorakuna/projects/phd/SimplicityDoneRight-master/FocusedSampling/CMakeFiles/rebuild_cache.dir
